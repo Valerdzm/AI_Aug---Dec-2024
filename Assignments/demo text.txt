@@ -1,0 +1,11 @@
+Artificial Intelligence (AI) is a branch of computer science focused on creating machines capable of performing tasks that typically require human intelligence. These tasks include learning from experience, understanding natural language, recognizing patterns, and making decisions. AI systems are designed to simulate human cognitive functions and can be categorized into two main types: Narrow AI and General AI.
+
+Narrow AI, also known as Weak AI, is specialized in performing specific tasks. Examples include voice assistants like Siri and Alexa, recommendation algorithms used by streaming services, and autonomous vehicles. Narrow AI operates within a limited context and excels in its designated tasks but lacks the general problem-solving capabilities of human intelligence.
+
+General AI, or Strong AI, is a more advanced concept where a machine would possess the ability to understand, learn, and apply knowledge across a wide range of tasks, similar to human cognitive abilities. General AI remains largely theoretical and has not yet been achieved.
+
+AI technologies often rely on machine learning (ML), a subset of AI where algorithms improve their performance over time by analyzing data. Deep learning, a further subset of ML, uses neural networks with many layers to process large amounts of data and identify patterns.
+
+Applications of AI are vast and growing rapidly, impacting various sectors such as healthcare, finance, transportation, and entertainment. AI systems can assist in diagnosing medical conditions, optimizing financial investments, driving vehicles autonomously, and enhancing user experiences in digital platforms.
+
+As AI continues to evolve, it raises important ethical and societal questions regarding privacy, job displacement, and the potential for bias in decision-making. Ensuring responsible development and deployment of AI technologies is crucial to maximizing their benefits while addressing potential challenges.
